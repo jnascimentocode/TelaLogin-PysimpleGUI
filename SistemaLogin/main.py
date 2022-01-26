@@ -96,7 +96,7 @@ class TelaLogin:
                 elif senha == '' or usuario == '':
                     self.janela_main['status'].update('Erro. Favor digite todos os campos.')
                 else:
-                    self.janela_main['status'].update('Usuário/senha incorretos. Tentar novamente.')
+                    self.janela_main['status'].update('Usuário/senha não encontrado ou incorreto. Tentar novamente.')
 
             elif self.button == 'Novo Usuário':
 

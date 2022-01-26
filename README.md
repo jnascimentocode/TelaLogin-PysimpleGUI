@@ -1,7 +1,17 @@
 # TelaLogin-PysimpleGUI
  Tela de login feita com PysimpleGUI
 
-##Tratativas
+## Linguagem
+Python versão 3.10.0
+
+##IDE
+VsCode
+
+## Bibliotecas utilizadas
+PySimpleGUI 4.55.1
+
+
+## Tratativas
 - Cadastro do cliente feito e inserido no arquivo .txt!
 
 ![status cadastro correto](https://user-images.githubusercontent.com/95966908/151242716-86ed5365-177c-4bdd-9c39-dff879a6bd7a.PNG)
